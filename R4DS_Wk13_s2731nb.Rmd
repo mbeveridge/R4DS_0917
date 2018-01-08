@@ -1,0 +1,67 @@
+---
+title: "Mark Beveridge"
+output: html_notebook
+---
+
+
+### Employment
+
+* __2017__ Data Scientist[^1]
+* __2016__ Astronaut
+* __2015__ Professional footballer
+* __2014__ Circus strongman
+
+---
+
+### Education
+
+* __2013__ PhD
+* __2012__ MSc
+
+---
+
+> Just a random quote
+
+> And another one
+
+
+
+
+
+[^1]: Trainee Data Scientist
+
+---
+
+
+
+
+
+
+---
+title: "Diamond sizes"
+date: 2016-08-25
+output: html_document
+---
+
+```{r setup, include = FALSE}
+library(ggplot2)
+library(dplyr)
+
+smaller <- diamonds %>% 
+  filter(carat <= 2.5)
+```
+
+We have data about `r nrow(diamonds)` diamonds. Only 
+`r nrow(diamonds) - nrow(smaller)` are larger than
+2.5 carats. The distribution of the remainder is shown
+below:
+
+```{r, echo = FALSE}
+smaller %>% 
+  ggplot(aes(carat)) + 
+  geom_freqpoly(binwidth = 0.01)
+```
+
+
+### Text after the frequency polygon that describes its most striking features :
+The count spikes at each whole number of carats, and at significant fractions, (and decays very rapidly in between)
