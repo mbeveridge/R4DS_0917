@@ -6,6 +6,7 @@
 ## Curriculum
 
 Original curriculum (before Wk09 made an extra 'catch-up') :
+
 ![original curriculum](2017-09-02 14.37.06.jpg)
 
 #### Wk01
