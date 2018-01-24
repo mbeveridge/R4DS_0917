@@ -6,8 +6,7 @@
 ## Curriculum
 
 Original curriculum (before Wk09 made an extra 'catch-up') :
-
-![original curriculum](2017-09-02 14.37.06.jpg)
+![original curriculum](curriculum_0917.jpg)
 
 #### Wk01
 * Chapter : [1](http://r4ds.had.co.nz/introduction.html) , [4](http://r4ds.had.co.nz/workflow-basics.html) , [6](http://r4ds.had.co.nz/workflow-scripts.html) , [8](http://r4ds.had.co.nz/workflow-projects.html)
