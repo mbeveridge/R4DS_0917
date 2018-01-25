@@ -3,6 +3,8 @@
 
 "The goal of this online community is to provide a friendly and supportive online space for you to work with likeminded people just getting started in data analysis by reading “R for Data Science”, a free and publicly available book written by Garrett Grolemund and Hadley Wickham" -- Jesse Maegan [20/8/17 blog post](https://medium.com/@kierisi/join-the-r-for-data-science-online-learning-community-842527222ab3)
 
+Files in this repo contain my answers from attempting Exercises in the book. I've also tried to give credit where I copied someone else (which is probably because I still don't know/ understand the answer yet), or quoted from a discussion in the R4ds Slack channels
+
 ## Curriculum
 
 Original curriculum (before Wk09 was made an extra 'catch-up') :
