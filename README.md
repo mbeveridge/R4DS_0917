@@ -1,13 +1,13 @@
 # MOOC : "R for Data Science"
 ###### 1/9/17 - 21/12/17
 
-"The goal of this online community is to provide a friendly and supportive online space for you to work with likeminded people just getting started in data analysis by reading “R for Data Science”, a free and publicly available book written by Garrett Grolemund and Hadley Wickham" -- Jesse Maegan [20/8/17 blog post](https://medium.com/@kierisi/join-the-r-for-data-science-online-learning-community-842527222ab3)
+"The goal of this online community is to provide a friendly and supportive online space for you to work with likeminded people just getting started in data analysis by reading “[**R for Data Science**](http://r4ds.had.co.nz/)”, a free and publicly available book written by Garrett Grolemund and Hadley Wickham" -- Jesse Maegan [20/8/17 blog post](https://medium.com/@kierisi/join-the-r-for-data-science-online-learning-community-842527222ab3)
 
-Files in this repo contain my answers from attempting Exercises in the book. I've also tried to give credit where I copied someone else (which is probably because I still don't know/ understand the answer yet), or quoted from a discussion in the R4ds Slack channels
+Files in this repo contain my answers from attempting Exercises in the book, (grouped into Weeks, as in the Curriculum). I've tried to give credit if I copied someone else (and I probably don't know/ understand those answers yet), or quoted from discussions I had in R4ds Slack
 
 ## Curriculum
 
-Original curriculum (before Wk09 was made an extra 'catch-up') :
+_Original curriculum (before Wk09 was made an extra 'catch-up') :_
 ![original curriculum](curriculum_0917.jpg)
 
 #### Wk01
@@ -100,4 +100,5 @@ Original curriculum (before Wk09 was made an extra 'catch-up') :
 
 ## Other Links
 * [rfordatascience.slack.com](https://rfordatascience.slack.com/)
-* [github.com/rfordatascience](https://github.com/rfordatascience)
+* [github.com/rfordatascience](https://github.com/rfordatascience) ...re. the MOOC/ community
+* [github.com/hadley/r4ds](https://github.com/hadley/r4ds) ...re. the book
