@@ -5,6 +5,10 @@
 
 Files in this repo contain my answers from attempting Exercises in the book, (grouped into Weeks, as in the Curriculum). I've tried to give credit if I copied someone else (and I probably don't know/ understand those answers yet), or quoted from discussions I had in R4ds Slack
 
+![getting started](getting-started_0917.jpg)
+_This MOOC refers to online chapter numbers. The printed book has different chapter numbers. (See image of Curriculum, below)_
+
+
 ## Curriculum
 
 _Original curriculum (before Wk09 was made an extra 'catch-up') :_
