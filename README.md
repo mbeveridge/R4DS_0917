@@ -25,7 +25,7 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk03 : [Explore] : Data transformation
 * Chapter : [5](http://r4ds.had.co.nz/transform.html)
-* **dplyr**
+* **dplyr** , (**RcppRoll**)
 * _JesseMaegan : [20/9/17](https://medium.com/@kierisi/r4ds-week-3-just-breathe-c07813617b61) "Just Breathe"_
 
 ---
