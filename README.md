@@ -36,7 +36,7 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk04 : [Explore] : Exploratory Data Analysis (EDA)
 * Chapter : [7](http://r4ds.had.co.nz/exploratory-data-analysis.html)
-* (**modelr**)
+* (**modelr**) , (**ggstance** , **lvplot** , **ggbeeswarm**) , (**seriation** , **d3heatmap** , **heatmaply**) , (**hexbin**)
 * _JesseMaegan blog : [27/9/17](https://medium.com/@kierisi/r4ds-week-4-an-eda-state-of-mind-cf9679499ee4) "An EDA state of mind"_
 
 ---
