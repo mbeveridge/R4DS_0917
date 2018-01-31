@@ -22,21 +22,21 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk02 : [Explore] : Data visualization
 * Chapter : [2](http://r4ds.had.co.nz/explore-intro.html) , [3](http://r4ds.had.co.nz/data-visualisation.html)
-* **ggplot2**
+* New library : **ggplot2**
 * _JesseMaegan blog : [9/9/17](https://medium.com/@kierisi/r4ds-week-2-data-visualization-vocabulary-fc8fa4d20d2d) , [13/9/17](https://medium.com/@kierisi/r4ds-week-2-its-not-too-late-1f1ca71cfc79)_
 
 ---
 
 #### Wk03 : [Explore] : Data transformation
 * Chapter : [5](http://r4ds.had.co.nz/transform.html)
-* **dplyr** , (**RcppRoll**)
+* New library : **dplyr** , (RcppRoll)
 * _JesseMaegan blog : [20/9/17](https://medium.com/@kierisi/r4ds-week-3-just-breathe-c07813617b61) "Just Breathe"_
 
 ---
 
 #### Wk04 : [Explore] : Exploratory Data Analysis (EDA)
 * Chapter : [7](http://r4ds.had.co.nz/exploratory-data-analysis.html)
-* (**modelr**) , (**ggstance** , **lvplot** , **ggbeeswarm**) , (**seriation** , **d3heatmap** , **heatmaply**) , (**hexbin**)
+* New library : (modelr) , (ggstance , lvplot , ggbeeswarm) , (seriation , d3heatmap , heatmaply) , (hexbin)
 * _JesseMaegan blog : [27/9/17](https://medium.com/@kierisi/r4ds-week-4-an-eda-state-of-mind-cf9679499ee4) "An EDA state of mind"_
 
 ---
