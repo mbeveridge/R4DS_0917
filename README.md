@@ -15,34 +15,35 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 ![original curriculum](curriculum_0917.jpg)
 
 #### Wk01
-* Chapter : [1](http://r4ds.had.co.nz/introduction.html) , [4](http://r4ds.had.co.nz/workflow-basics.html) , [6](http://r4ds.had.co.nz/workflow-scripts.html) , [8](http://r4ds.had.co.nz/workflow-projects.html)
+* Chapters : [1](http://r4ds.had.co.nz/introduction.html) , [4](http://r4ds.had.co.nz/workflow-basics.html) , [6](http://r4ds.had.co.nz/workflow-scripts.html) , [8](http://r4ds.had.co.nz/workflow-projects.html)
 * _JesseMaegan blog : [2/9/17](https://medium.com/@kierisi/r4ds-onboarding-reflections-22b71878821f) , [5/9/17](https://medium.com/@kierisi/r4ds-learning-to-learn-b22ffa7419f8) , [6/9/17](https://medium.com/@kierisi/r4ds-week-1-dont-panic-e9e290062806) , [7/9/17](https://medium.com/@kierisi/r4ds-week-1-reflection-fbdbc336adc)_
 
 ---
 
 #### Wk02 : [Explore] : Data visualization
-* Chapter : [2](http://r4ds.had.co.nz/explore-intro.html) , [3](http://r4ds.had.co.nz/data-visualisation.html)
-* New library : **ggplot2**
+* Chapters : [2](http://r4ds.had.co.nz/explore-intro.html) , [3](http://r4ds.had.co.nz/data-visualisation.html)
+* New package : **ggplot2**
 * _JesseMaegan blog : [9/9/17](https://medium.com/@kierisi/r4ds-week-2-data-visualization-vocabulary-fc8fa4d20d2d) , [13/9/17](https://medium.com/@kierisi/r4ds-week-2-its-not-too-late-1f1ca71cfc79)_
 
 ---
 
 #### Wk03 : [Explore] : Data transformation
 * Chapter : [5](http://r4ds.had.co.nz/transform.html)
-* New library : **dplyr** , (RcppRoll)
+* New packages : **dplyr** , (RcppRoll)
 * _JesseMaegan blog : [20/9/17](https://medium.com/@kierisi/r4ds-week-3-just-breathe-c07813617b61) "Just Breathe"_
 
 ---
 
 #### Wk04 : [Explore] : Exploratory Data Analysis (EDA)
 * Chapter : [7](http://r4ds.had.co.nz/exploratory-data-analysis.html)
-* New library : (modelr) , (ggstance , lvplot , ggbeeswarm) , (seriation , d3heatmap , heatmaply) , (hexbin)
+* New packages : (modelr) , (ggstance , lvplot , ggbeeswarm) , (seriation , d3heatmap , heatmaply) , (hexbin)
 * _JesseMaegan blog : [27/9/17](https://medium.com/@kierisi/r4ds-week-4-an-eda-state-of-mind-cf9679499ee4) "An EDA state of mind"_
 
 ---
 
 #### Wk05 : [Wrangle] : Tibbles; Data import
-* Chapter : [9](http://r4ds.had.co.nz/wrangle-intro.html) , [10](http://r4ds.had.co.nz/tibbles.html) , [11](http://r4ds.had.co.nz/data-import.html)
+* Chapters : [9](http://r4ds.had.co.nz/wrangle-intro.html) , [10](http://r4ds.had.co.nz/tibbles.html) , [11](http://r4ds.had.co.nz/data-import.html)
+* New packages : **tibble** , **readr** , (webreadr) , (hms) , (feather) , (haven , readxl , DBI)
 * _JesseMaegan blog : [4/10/17](https://medium.com/@kierisi/r4ds-week-5-its-ok-to-feel-lost-sometimes-5dc8f20ddd6c) "it’s OK to feel lost sometimes"_
 
 ---
