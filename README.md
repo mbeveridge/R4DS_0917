@@ -43,13 +43,14 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk05 : [Wrangle] : Tibbles; Data import
 * Chapters : [9](http://r4ds.had.co.nz/wrangle-intro.html) , [10](http://r4ds.had.co.nz/tibbles.html) , [11](http://r4ds.had.co.nz/data-import.html)
-* New packages : **tibble** , **readr** , (webreadr) , (hms) , (feather) , (haven , readxl , DBI)
+* New packages : **tibble** , **readr** , (webreadr) , (hms) , (feather) , (haven , readxl , DBI , jsonlite , xml2 , rio)
 * _JesseMaegan blog : [4/10/17](https://medium.com/@kierisi/r4ds-week-5-its-ok-to-feel-lost-sometimes-5dc8f20ddd6c) "it’s OK to feel lost sometimes"_
 
 ---
 
 #### Wk06 : [Wrangle] : Tidy data; Relational data
 * Chapter : [12](http://r4ds.had.co.nz/tidy-data.html) , [13](http://r4ds.had.co.nz/relational-data.html)
+* New packages : **tidyr**
 * _JesseMaegan blog : [11/10/17](https://medium.com/@kierisi/r4ds-week-6-tidying-up-your-data-d5180ecff860) "Tidying up your data"_
 
 ---
