@@ -57,6 +57,7 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk07 : [Wrangle] : Strings
 * Chapter : [14](http://r4ds.had.co.nz/strings.html)
+* New packages : **stringr** , (stringi)
 * _JesseMaegan blog : [19/10/17](https://medium.com/@kierisi/r4ds-week-7-star-wars-and-string-manipulation-9ab77ebe8a66) "Star Wars, regex, and string manipulation"_
 
 ---
