@@ -50,7 +50,7 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk06 : [Wrangle] : Tidy data; Relational data
 * Chapter : [12](http://r4ds.had.co.nz/tidy-data.html) , [13](http://r4ds.had.co.nz/relational-data.html)
-* New packages : **tidyr** , (**Lahman**)
+* New packages : **tidyr** , (Lahman)
 * _JesseMaegan blog : [11/10/17](https://medium.com/@kierisi/r4ds-week-6-tidying-up-your-data-d5180ecff860) "Tidying up your data"_
 
 ---
