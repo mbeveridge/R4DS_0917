@@ -75,6 +75,7 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk10 : [Program] : Pipes; Functions
 * Chapter : [17](http://r4ds.had.co.nz/program-intro.html) , [18](http://r4ds.had.co.nz/pipes.html) , [19](http://r4ds.had.co.nz/functions.html)
+* New packages : **magrittr**
 * _JesseMaegan blog : [8/11/17](https://medium.com/@kierisi/r4ds-week-10-what-the-h-ck-is-a-function-a2eeba19b8f0) "What the h*ck is a function?"_
 
 ---
