@@ -64,7 +64,7 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk08 : [Wrangle] : Factors; Dates & times
 * Chapter : [15](http://r4ds.had.co.nz/factors.html) , [16](http://r4ds.had.co.nz/dates-and-times.html)
-* New packages : **forcats** , **lubridate**
+* New packages : **forcats** , **lubridate** , (hms)
 * _JesseMaegan blog : [26/10/17](https://medium.com/@kierisi/r4ds-week-8-factors-forcats-4b7f27cffd60) "factors & forcats"_
 
 ---
