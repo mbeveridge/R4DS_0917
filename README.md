@@ -64,7 +64,7 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk08 : [Wrangle] : Factors; Dates & times
 * Chapter : [15](http://r4ds.had.co.nz/factors.html) , [16](http://r4ds.had.co.nz/dates-and-times.html)
-* New packages : **forcats** , **lubridate** , (hms)
+* New packages : **forcats** , **lubridate**
 * _JesseMaegan blog : [26/10/17](https://medium.com/@kierisi/r4ds-week-8-factors-forcats-4b7f27cffd60) "factors & forcats"_
 
 ---
@@ -91,6 +91,7 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk13 : [Model]
 * Chapter : [22](http://r4ds.had.co.nz/model-intro.html) , [23](http://r4ds.had.co.nz/model-basics.html) , [24](http://r4ds.had.co.nz/model-building.html) , [25](http://r4ds.had.co.nz/many-models.html)
+* New packages : **modelr** [re. Wk04] , **broom** , (gapminder) , **purrr**
 
 ---
 
