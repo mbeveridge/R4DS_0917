@@ -82,6 +82,7 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk11 : [Program] : Vectors; Iteration
 * Chapter : [20](http://r4ds.had.co.nz/vectors.html) , [21](http://r4ds.had.co.nz/iteration.html)
+* New packages : **purrr**
 
 ---
 
@@ -91,7 +92,7 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk13 : [Model]
 * Chapter : [22](http://r4ds.had.co.nz/model-intro.html) , [23](http://r4ds.had.co.nz/model-basics.html) , [24](http://r4ds.had.co.nz/model-building.html) , [25](http://r4ds.had.co.nz/many-models.html)
-* New packages : **modelr** [re. Wk04] , **broom** , (gapminder) , **purrr**
+* New packages : **modelr** [re. Wk04] , **broom** , (gapminder)
 
 ---
 
