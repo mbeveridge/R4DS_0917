@@ -98,7 +98,7 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 
 #### Wk14 : [Communication] : RMarkdown, graphics
 * Chapter : ([26](http://r4ds.had.co.nz/communicate-intro.html)) , [27](http://r4ds.had.co.nz/r-markdown.html) , [28](http://r4ds.had.co.nz/graphics-for-communication.html) , [29](http://r4ds.had.co.nz/r-markdown-formats.html) , [30](http://r4ds.had.co.nz/r-markdown-workflow.html)
-* New packages : **rmarkdown** , **knitr** , (xtable , stargazer , pander , tables , ascii) , (ggrepel , viridis) , (RColorBrewer) , (ggthemes) , (revealjs , rmdshower/shower) , **flexdashboard** , (dygraphs , DT , rthreejs , DiagrammeR) , **Shiny** , (bookdown , prettydoc , rticles)
+* New packages : **rmarkdown** , **knitr** , (xtable , stargazer , pander , tables , ascii) , (ggrepel , viridis) , (RColorBrewer) , (ggthemes) , (revealjs , rmdshower/shower) , **flexdashboard** , (dygraphs , DT , rthreejs , DiagrammeR) , **Shiny** , (bookdown , prettydoc , rticles) , (packrat , checkpoint)
 
 ---
 
