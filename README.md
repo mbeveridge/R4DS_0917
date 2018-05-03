@@ -115,3 +115,4 @@ _Original curriculum (before Wk09 was made an extra 'catch-up') :_
 * [rfordatascience.slack.com](https://rfordatascience.slack.com/)
 * [github.com/rfordatascience](https://github.com/rfordatascience) ...re. the MOOC/ community
 * [github.com/hadley/r4ds](https://github.com/hadley/r4ds) ...re. the book
+* [R4DS_1217](https://github.com/mbeveridge/R4DS_1217) has my updated Exercise answers (grouped by Chapter, in RMarkdown files)
